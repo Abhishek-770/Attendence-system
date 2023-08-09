@@ -1,1 +1,1 @@
-# Human_feature_extraction_projects
+# Created an attendence system where student can take mark their attendence by taking their live picture. I have also integrated the colab file with firebase database which records the attendence history of students.
